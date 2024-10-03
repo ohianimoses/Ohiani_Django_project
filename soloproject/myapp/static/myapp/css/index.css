@@ -1,0 +1,341 @@
+/* main page */
+.card-image{
+
+    width: 100%;
+    height: 150%;
+
+
+
+
+}
+
+a{
+
+
+    text-decoration: none;
+    text-align: justify;
+    color: white;
+
+}
+
+
+a:hover{
+
+color: red;
+font-weight: bold;
+
+}
+
+h3{
+
+
+    text-align: center;
+}
+
+
+
+
+
+.landingpage{
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    background-color: rgb(153, 179, 232);
+
+    /* background-color:rgb(214, 233, 233); */
+    
+
+}
+
+/* .container h2{
+
+
+    text-align: center;
+    
+    
+    
+    
+
+} */
+
+
+form{
+
+
+    color: red;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px;
+    
+    
+    
+
+}
+
+input{
+
+border-radius: 7px;
+/* margin-left: 20px; */
+padding: 2px;
+border-color: red;
+margin: 10px;
+background-color: rgb(224, 232, 205);
+color: black;
+width:60%;
+}
+
+
+button:hover {
+
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(64, 231, 56);
+    color: white;
+    
+
+    
+}
+
+button{
+    padding: 2px;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    
+
+}
+
+
+
+
+:placeholder-shown{
+
+color: darkgreen;
+
+}
+
+
+/* header design */
+.navbar-nav{
+
+    font-size: 12px;
+    font-family: poppins;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+    
+    
+    }
+    
+    
+    /* navbar design */
+    .navbar{
+    
+    background-color:rgb(233, 65, 14)
+    
+    
+    }
+    
+    
+    /* brand logo */
+    .navbar-brand{
+    
+    
+        color: white;
+        font-family: fantasy;
+        letter-spacing: 5px;
+        
+    }
+    
+    
+    
+    .navbar-expand-lg .navbar-nav .nav-link{
+    
+    
+    color: white;
+    margin: 8px;
+    letter-spacing: 2px;
+    
+    }
+    
+    .navbar-brand:hover{
+    
+    color: white;
+    
+    }
+
+
+/* .row{
+
+
+    flex-wrap: wrap;
+    overflow-x: auto;
+} */
+
+.est{
+
+    height: 100px;
+    width: 80%;
+    border-radius: 40%;
+}
+
+.hea{
+
+    text-align: center;
+    margin-right: 50px;
+    color: red;
+}
+
+
+.hea:hover{
+
+    color: indigo;
+}
+
+
+/* for sale */
+
+.upload-property-form{
+
+    
+border-radius: 7px;
+padding: 2px;
+border-color: red;
+margin: 2px;
+color: black;
+width:70%;
+
+
+
+}
+
+
+
+.card-sm .card-img-top{
+
+    height: 200px;
+    object-fit: cover;
+
+}
+
+
+
+/* consult */
+
+.landingpage1{
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    background-image:url(./images/images-13.jpeg);
+
+}
+
+
+/* Register and login */
+
+.landingpage2{
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    background-image:url(./images/Nigeria\ Duplex\ Design.jpeg);
+
+}
+
+
+form>.bt{
+
+margin-left: 10px;
+
+}
+
+
+/* Responsiveness
+
+/* Desktop/Laptop (1024px and above) */
+/* @media (min-width: 1024px) {
+    .container{
+
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+    } */
+
+    /* .card{
+
+        width: 100%;
+        margin: 20px auto;
+    } */
+
+    /* .header {
+        height: 80px;
+    }
+    .footer{
+        padding: 30px 0;
+    }
+} */
+
+/* iPad (768px - 1023px) */
+/* @media (min-width: 768px) and (max-width: 1023px){
+
+    .container {
+
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 15px;
+    } */
+
+    /* .card{
+
+        width: 100%;
+        margin: 20px auto;
+    } */
+
+    /* .header{
+
+        height: 60px;
+    }
+
+    .footer{
+
+        padding: 20px 0;
+    }
+} */
+
+/* Mobile Portrait (320px - 479px) */
+/* @media (max-width: 479px){
+
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 5px;
+    } */
+
+    /* .card{
+
+        width: 100%;
+        margin: 20px auto;
+    } */
+
+    /* .header {
+
+        height: 40px;
+
+    }
+
+    .footer {
+
+        padding: 10px 0;
+    }
+}  */
